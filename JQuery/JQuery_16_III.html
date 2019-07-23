@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset=utf-8>
+
+<title>Inserta aquí el título</title>
+
+<style type="text/css">
+	
+	#anuncio{
+
+		background-color: #60c;
+		color:#FFF;
+		font-size: 24px;
+	}
+
+</style>
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+
+<script type="text/javascript">
+	
+	$(document).ready(function(){
+
+		$("#anuncio").width(500).height(500).text("Vendooo!!").hide().fadeIn(10000); //cambiamos el tamaño, luego el texto, lo ocultamos y después que aparezca poco a poco en 1000ms
+	});
+
+</script>
+
+
+</head>
+
+
+<body>
+
+	<div id="anuncio">
+
+		¡COMPRAAAA!
+		
+
+	</div>
+
+<!--
+<script type="text/javascript">
+	
+	var anuncio=document.getElementById("anuncio");
+
+	anuncio.style.width="500px";
+	anuncio.style.height="500px";
+	anuncio.innerHTML="¡Vendoooo!"; //para modificar el texto compra por vendo
+
+
+</script>
+-->
+
+</body>
+</html>

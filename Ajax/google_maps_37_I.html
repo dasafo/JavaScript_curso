@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Google Maps</title>
+<link href="css/externa.css" rel="stylesheet">
+<style>
+
+#mapa h2 {
+	color: black;
+}
+#mapa p {
+	color: black;	
+}
+
+#mapa {
+	
+	height:400px;
+	width:760px;
+
+}
+</style>
+<script type="text/javascript" src="http://maps.google.com/maps/api/js?key=#API_KEY#"></script> 
+<script type="text/javascript" src="jquery-3.3.1.min.js"></script>
+<script type="text/javascript" src="jquery.gomap-1.3.3.min.js"></script>
+
+
+
+<script>
+
+	$(document).ready(function() {
+		
+		$("#mapa").goMap({
+
+			latitude:41.655751,
+			longitude:-0.9086845,
+			zoom:19,
+			maptype:"TERRAIN",
+			scaleControl:true
+
+		});
+
+		$.goMap.createMarker({
+			latitude:41.655751,
+			longitude:-0.9086845,
+			title:"Centro Cívico",
+			html:{
+
+				content:"<h2>Centro Cícivo Delicias</h2>",
+				popup:true
+			}
+
+		});
+
+		
+	}); 
+
+</script>
+
+</head>
+<body>
+
+	<div class="cabecera">
+		<p class="logo">Mapas</p>
+	</div>
+	<div class="contenido">
+		<div class="principal">
+			<h1>Google Maps</h1>
+            
+            <div id="mapa"></div>
+
+		</div>
+	</div>
+	
+
+</body>
+</html>

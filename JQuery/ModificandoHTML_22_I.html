@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset=utf-8>
+
+<title>Inserta aquí el título</title>
+
+<style type="text/css">
+
+img{
+
+	width: 350px;
+	height: 300px;
+}
+
+</style>
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+
+<script type="text/javascript"> 
+
+	$(document).ready(function(){
+
+		document.getElementById("arbol").addEventListener("mouseover", cambiar, false);
+		document.getElementById("arbol").addEventListener("mouseout", restaurar, false);
+
+	});
+
+	function cambiar(){
+
+		$("img").attr("src", "../PrimerosPasosJS/imgs/einstein.jpg"); //para que cambie en img(solo tenemos uno) el atributo de src por otra imagen
+
+	}
+
+	function restaurar(){
+
+		$("img").attr("src", "../PrimerosPasosJS/imgs/arbol.jpg"); //para que cambie en img(solo tenemos uno) el atributo de src por otra imagen
+
+	}
+
+</script>
+
+</head>
+
+<script type="text/javascript"> 
+
+	
+
+</script>
+<body>
+
+	<img src="../PrimerosPasosJS/imgs/arbol.jpg" id="arbol">
+
+</body>
+</html>

@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset=utf-8>
+
+<title>Inserta aquí el título</title>
+
+<style type="text/css">
+	
+	.micontenedor{
+
+		background-color: #f93;
+	}
+
+
+</style>
+
+
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+
+<script type="text/javascript">
+	
+	function validar(){
+
+		var nUsuario=document.getElementById("usuario").value;
+
+			if(nUsuario==""){
+
+				$("#usuario").after("Rellena este campo anda");
+			}
+
+	}
+
+
+	
+
+</script>
+
+</head>
+
+<script type="text/javascript"> 
+
+	
+
+</script>
+<body>
+	<form action="" method="get">
+		
+		<input type="text" name="" id="usuario"><br/>
+		<input type="text" name="" id="nombre"><br/>
+		<input type="text" name="" id="apellido"><br/>
+
+		<input type="button" name="" value="Dale!!" onclick="validar()">
+	</form>
+
+
+</body>
+</html>

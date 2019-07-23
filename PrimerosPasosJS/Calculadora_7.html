@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset=utf-8>
+
+<title></title>
+
+<script type="text/javascript">
+	
+	var num1=prompt("Introduce el primer número: ");
+	var num2=prompt("Introduce el segundo número: ");
+
+	if(!isNaN(num1) && !isNaN(num2)){ //isNAN() si NO es un número...!isNAN() si SI es un número
+
+
+		alert("El primer número es tipo " + typeof(num1) + "\n" + "El segundo número es tipo " + typeof(num2));
+
+		var operacion=prompt("¿Qué operación deseas realizar? (suma/resta/multiplicación/división");
+
+		if(operacion=="suma"){
+
+			alert(parseInt(num1)+parseInt(num2)); //como son String num1 y num2 lo pasamos a entero con parseInt()
+		}else if(operacion=="resta"){
+
+			alert(parseInt(num1)-parseInt(num2));
+
+		}else if(operacion=="multiplicación" || operacion=="multiplicacion"){
+
+			alert(parseInt(num1)*parseInt(num2));
+
+		}else if(operacion=="división" || operacion=="division"){
+
+			alert(parseInt(num1)/parseInt(num2));
+		}else{
+
+			alert("Operación no admitida.");
+		}
+
+	}else{
+
+		if(typeof(num1)=="string" || typeof(num2)=="string"){
+
+			alert("Has introducido uno o los dos valores en forma String");
+		}else{
+
+			alert("Ha ocurrido un error no identificado")
+		}
+
+
+	}
+
+
+</script>
+
+</head>
+
+<script type="text/javascript"> 
+
+	
+
+</script>
+<body>
+
+</body>
+</html>

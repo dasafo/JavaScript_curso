@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset=utf-8>
+
+<title>Inserta aquí el título</title>
+
+<style type="text/css">
+	
+	.micontenedor{
+
+		background-color: #f93;
+	}
+
+
+</style>
+
+
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+
+<script type="text/javascript">
+	
+	$(document).ready(function(){
+
+		//alert($("#errores h2").html()); //html() para que nos saque las etiquetas '#errores h2' puntero descentente, nos situamos en errores y bajamos a h2. Así no nos mostrará las etiquetas
+
+		//$("#errores").html("<p> Hay errores en el formulario</p>"); //sustituimos lo que hay en el contenedor errores y lo sustituye por lo que hay dentro de html()
+
+		//$("#errores").append("<p> Hay errores en el formulario</p>"); //lo mismo que antes pero añade debajo el texto, no sustituye
+
+		//$("#errores").prepend("<p> Hay errores en el formulario</p>"); //lo mismo que antes pero añade por encima del texto, 
+
+		// $("#errores").before("<p> Hay errores en el formulario</p>"); //añade, pero antes del contenedor errores
+
+		//$("#errores").after("<p> Hay errores en el formulario</p>"); //añade, pero después del contenedor errores
+
+		$("#errores h2").text(" Hay errores en el formulario"); //sustituye un texto por otro
+	});
+
+
+	
+
+</script>
+
+</head>
+
+<script type="text/javascript"> 
+
+	
+
+</script>
+<body>
+
+<div id="contenedor">
+
+	<div id="errores" class="micontenedor">
+		
+		<h2>Errores</h2>
+</div>
+	</div>
+
+</body>
+</html>

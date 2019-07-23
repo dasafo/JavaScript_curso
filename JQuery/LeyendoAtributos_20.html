@@ -1,0 +1,131 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>Documento sin título</title>
+<style>
+
+.linkdestacacursos{
+	color: #f00;
+	font-weight: bold;
+	margin-left: 25px;
+
+}
+
+.linkdestacainformacion{
+	color: #090;
+	font-weight: bold;
+	margin-left: 20px;
+
+}
+
+a{
+	display:block;
+	margin-bottom:20px;
+	font-size:24px;
+}
+table{
+	text-align:center;
+	border:none;
+}
+
+td{
+	border:none;
+}
+
+#contieneEnlaces {
+	position: absolute;
+	left: 31px;
+	top: 65px;
+	width: 400px;
+	height: 649px;
+	z-index: 1;
+	padding-top:100px;
+}
+</style>
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+
+<script type="text/javascript">
+	
+	$(document).ready(function(){
+
+		// $("a[href^='http://']").addClass("linkdestacacursos") //apuntamos a todos los enlaces externos http dentro de 'a' y los resalamos(addClass) con el CSS creado arriba
+
+		document.getElementById("cursos").addEventListener("click", resaltaCursos, false);
+
+		document.getElementById("informacion").addEventListener("click", resaltaEjemplos, false);
+	});
+
+	function resaltaCursos(){
+
+		$(".ejemplos").removeClass("linkdestacainformacion"); //para que limpie elementos señalados de la class ejemplos si los hubiese
+
+		$(".cursos").addClass("linkdestacacursos");
+
+		//$(".cursos").toggleClass("linkdestacacursos");
+
+
+	}
+
+	function resaltaEjemplos(){
+
+		$(".cursos").removeClass("linkdestacacursos");//para que limpie elementos señalados de la class curos si los hubiese
+
+		$(".ejemplos").addClass("linkdestacainformacion");
+
+		//$(".ejemplos").toggleClass("linkdestacainformacion");
+
+	}
+
+
+</script>
+
+
+</head>
+
+<body>
+
+<div id="contieneEnlaces">
+
+<a href="http://www.pildorasinformaticas.com" target="_blank" class="cursos">
+Píldoras informáticas
+</a><br>
+
+<a href="http://www.google.com" target="_blank" class="ejemplos">
+Google
+</a><br>
+
+<a href="https://www.youtube.com/user/pildorasinformaticas" target="_blank" class="cursos">
+Píldoras informáticas YouTube
+</a><br>
+
+<a href="RemoverReemplazar_19.html" target="_blank" >
+Remover y reemplazar
+</a><br>
+
+<a href="https://news.google.es/" target="_blank" class="ejemplos">
+Noticias google
+</a><br>
+
+<a href="../PrimerosPasosJS/CalculadoraBuena_15.html" target="_blank" >
+Calculadora
+</a>
+</div>
+
+<table width="100%" border="1">
+<!--La tabla con chekbox comentada funciona usando arriba los toggleClass()
+<tr>
+<td>Cursos destacados&nbsp;&nbsp;<input type="checkbox"  value="Cursos" id="cursos"></td>
+<td>Información adicional&nbsp;&nbsp;<input type="checkbox"  value="Información" id="informacion"></td>
+</tr>
+-->
+<tr>
+<td>Cursos destacados&nbsp;&nbsp;<input type="radio" name="misbotones" value="Cursos" id="cursos"></td>
+<td>Información adicional&nbsp;&nbsp;<input type="radio" name="misbotones" value="Información" id="informacion"></td>
+</tr>
+
+
+
+</body>
+</html>

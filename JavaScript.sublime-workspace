@@ -1,0 +1,1901 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"con",
+				"console.\tconsole.groupEnd()"
+			],
+			[
+				"go",
+				"jquery.gomap-1.3.3.min.js"
+			],
+			[
+				"da",
+				"datosFormulario"
+			],
+			[
+				"datos",
+				"datos_devueltos"
+			],
+			[
+				"css",
+				"css/"
+			],
+			[
+				"form",
+				"form_registro"
+			],
+			[
+				"messag",
+				"messages\t(jquery.validate.js)"
+			],
+			[
+				"background",
+				"background-color"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"sub",
+				"submit〔function〕"
+			],
+			[
+				"j",
+				"jquery-3.3.1.js"
+			],
+			[
+				"jq",
+				"jquery.fancybox-1.3.4"
+			],
+			[
+				"fot",
+				"fotoHover"
+			],
+			[
+				"foto",
+				"fotoNueva"
+			],
+			[
+				"img",
+				"imgs"
+			],
+			[
+				"easeIn",
+				"easeInSine\t(jquery.easing.1.3.js)"
+			],
+			[
+				"fade",
+				"fadeIn\t.fadeIn()"
+			],
+			[
+				"heig",
+				"height"
+			],
+			[
+				"hei",
+				"height"
+			],
+			[
+				"wid",
+				"width〔function〕"
+			],
+			[
+				"togg",
+				"toggle〔function〕"
+			],
+			[
+				"mensaje",
+				"mensaje_img1"
+			],
+			[
+				"val",
+				"val〔function〕"
+			],
+			[
+				"mouseo",
+				"mouseover〔function〕"
+			],
+			[
+				"fa",
+				"fadeOut〔function〕"
+			],
+			[
+				"im",
+				"imgs"
+			],
+			[
+				"i",
+				"imgs/"
+			],
+			[
+				"remo",
+				"removeAttr〔function〕"
+			],
+			[
+				"mu",
+				"mujertlf.jpg\tw:475 h:475"
+			],
+			[
+				"add",
+				"addClass\t.addClass()"
+			],
+			[
+				"elem",
+				"elem1"
+			],
+			[
+				"mouse",
+				"mouseover\t.mouseover()"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"backgorun",
+				"background-color\t(ModificandoCSS_21_I.html)"
+			],
+			[
+				"le",
+				"lectura1"
+			],
+			[
+				"zona",
+				"zonaActuacion"
+			],
+			[
+				"dism",
+				"disminuye3"
+			],
+			[
+				"dis",
+				"disminuye2"
+			],
+			[
+				"zonA",
+				"zonaActuacion"
+			],
+			[
+				"aum",
+				"aumenta2"
+			],
+			[
+				"aument",
+				"aumenta1"
+			],
+			[
+				"hi",
+				"height\tproperty"
+			],
+			[
+				"pri",
+				"primerParrafo"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"toggle",
+				"toggleClass〔function〕"
+			],
+			[
+				"margin",
+				"margin-left\tproperty"
+			],
+			[
+				"info",
+				"informacion"
+			],
+			[
+				"resalta",
+				"resaltaEjemplos"
+			],
+			[
+				"cal",
+				"CalculadoraBuena_15.html"
+			],
+			[
+				"replac",
+				"replaceWith〔function〕"
+			],
+			[
+				"scr",
+				"script\tTag"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"style",
+				"style\tTag"
+			],
+			[
+				"backgro",
+				"background-color\tproperty"
+			],
+			[
+				"scri",
+				"script\tTag"
+			],
+			[
+				"visibi",
+				"visibility\t = '' Style CSS"
+			],
+			[
+				"sty",
+				"style\t Style CSS"
+			],
+			[
+				"queryselectora",
+				"querySelectorAll\t( selectors: DOMString ): NodeList Element"
+			],
+			[
+				"acum",
+				"acumulado"
+			],
+			[
+				"disp",
+				"displayNumeros"
+			],
+			[
+				"onmou",
+				"onmouseover\tAttr"
+			],
+			[
+				"onc",
+				"onclick\tAttr"
+			],
+			[
+				"oper",
+				"operador2\tCalculadora_13.html"
+			],
+			[
+				"opera",
+				"operador1\tCalculadora_13.html"
+			],
+			[
+				"resta",
+				"resta(num1,num2)\tCalculadora_13.html"
+			],
+			[
+				"operacio",
+				"operacion"
+			],
+			[
+				"ope",
+				"operador1"
+			],
+			[
+				"suma",
+				"suma"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"font",
+				"font-size\tproperty"
+			],
+			[
+				"te",
+				"text"
+			],
+			[
+				"promt",
+				"prompt〔function〕"
+			],
+			[
+				"fon",
+				"fontSize\tNumeroAleatorio_10.html"
+			],
+			[
+				"st",
+				"style\tHTML - Stylesheet link"
+			],
+			[
+				"inten",
+				"intentosConsumidos\tNumeroAleatorio_10.html"
+			],
+			[
+				"fonts",
+				"fontSize\t = 'xx-large' Style CSS"
+			],
+			[
+				"get",
+				"getElementById〔function〕"
+			],
+			[
+				"propmt",
+				"prompt〔function〕"
+			],
+			[
+				"ale",
+				"aleatorio\tNumeroAleatorio_10.html"
+			],
+			[
+				"isNON",
+				"isNaN〔function〕"
+			],
+			[
+				"sc",
+				"script\tTag"
+			],
+			[
+				"scrip",
+				"script"
+			],
+			[
+				"sr",
+				"script\tTag"
+			],
+			[
+				"styl",
+				"style\tTag"
+			],
+			[
+				"typeof",
+				"typeof(aSome)"
+			],
+			[
+				"parsein",
+				"parseInt〔function〕"
+			],
+			[
+				"prompt",
+				"prompt〔function〕"
+			],
+			[
+				"bac",
+				"backgroundColor〔variable〕"
+			],
+			[
+				"mib",
+				"miboton2\tPOO1_5.html"
+			],
+			[
+				"w",
+				"width〔variable〕"
+			],
+			[
+				"getele",
+				"getElementById\t( elementId: DOMString ): Element Document"
+			],
+			[
+				"alert",
+				"alert〔function〕"
+			],
+			[
+				"ar",
+				"articulos\tArrays_4.html"
+			],
+			[
+				"scrit",
+				"script\tTag"
+			],
+			[
+				"tota",
+				"totalArticulos\tOperadores_3.html"
+			],
+			[
+				"doc",
+				"document"
+			],
+			[
+				"script",
+				"script\tTag"
+			],
+			[
+				"em",
+				"empeado_salario"
+			],
+			[
+				"sa",
+				"salarios_altos"
+			],
+			[
+				"nu",
+				"numero"
+			],
+			[
+				"com",
+				"comision_Ana"
+			],
+			[
+				"al",
+				"al_cubo"
+			],
+			[
+				"tri",
+				"triangulo2"
+			],
+			[
+				"Dir",
+				"DIRECCION"
+			],
+			[
+				"miC",
+				"miCursor"
+			],
+			[
+				"ac",
+				"actualizar"
+			],
+			[
+				"mi",
+				"miID"
+			],
+			[
+				"el",
+				"elUsuario"
+			],
+			[
+				"sho",
+				"showinfo"
+			],
+			[
+				"salir",
+				"salirAplicacion"
+			],
+			[
+				"botonE",
+				"botonLeer"
+			],
+			[
+				"bo",
+				"botonCrear"
+			],
+			[
+				"s",
+				"scrollVert"
+			],
+			[
+				"men",
+				"barraMenu"
+			],
+			[
+				"pr",
+				"pruductos"
+			],
+			[
+				"m",
+				"miCursor"
+			],
+			[
+				"p",
+				"producto"
+			],
+			[
+				"Mi",
+				"miCursor"
+			],
+			[
+				"cerr",
+				"cerrarDocumento"
+			],
+			[
+				"Sa",
+				"salirAplicacion"
+			],
+			[
+				"co",
+				"command"
+			],
+			[
+				"ad",
+				"add_command"
+			],
+			[
+				"la",
+				"label"
+			],
+			[
+				"opc",
+				"opcionesViaje"
+			],
+			[
+				"var",
+				"varOpcion"
+			],
+			[
+				"num",
+				"numeroPantalla"
+			],
+			[
+				"scor",
+				"scrollVertical"
+			],
+			[
+				"tex",
+				"textoComentario"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/home/david/Documents/TFG/pe/codigo/1_BandFrequencies.java",
+			"settings":
+			{
+				"buffer_size": 2764,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/david/Documents/TFG/pe/codigo/1_InizialitationPage.java",
+			"settings":
+			{
+				"buffer_size": 138,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/david/Documents/TFG/pe/codigo/2_EvolutionPage.java",
+			"settings":
+			{
+				"buffer_size": 331,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/david/Documents/TFG/pe/codigo/3_ContrainsPage.java",
+			"settings":
+			{
+				"buffer_size": 1426,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/david/Documents/TFG/pe/codigo/4_PaginaPropiaCustom.java",
+			"settings":
+			{
+				"buffer_size": 1152,
+				"encoding": "UTF-8",
+				"line_ending": "Unix",
+				"name": "public void inicializa( int j ) {"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"Snippet: html",
+				"Snippet: JavaScript_Html5"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: i",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Controlin",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Snippet: ht",
+				"Snippet: JavaScript_Html5"
+			],
+			[
+				"Snippet: ",
+				"Snippet: html"
+			],
+			[
+				"javaS",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"py",
+				"SublimeREPL: Python - execnet"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Install Package Control"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 150.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/david/Documents/JavaScript",
+		"/home/david/Documents/JavaScript/Ajax"
+	],
+	"file_history":
+	[
+		"/home/david/Documents/TFG/pe/codigo/EvolutionPage.java",
+		"/home/david/Documents/TFG/pe/codigo/ContrainsPage_3.java",
+		"/home/david/Documents/TFG/pe/codigo/BandFrequencies.java",
+		"/home/david/Documents/TFG/pe/codigo/InizialitationPage.java",
+		"/home/david/Documents/TFG/EjsS_5.3/bin/extensions/commons-math3-3.2.jar",
+		"/home/david/Documents/TFG/EjsS_5.3/bin/ejs_extras_java9.jar",
+		"/home/david/Documents/TFG/pe/output/JavaExamples/qm_photoelectric_pkg/qm_photoelectricView.java",
+		"/home/david/Documents/TFG/pe/output/JavaExamples/qm_photoelectric_pkg/qm_photoelectricSimulation.java",
+		"/home/david/Documents/TFG/pe/output/JavaExamples/qm_photoelectric_pkg/qm_photoelectricApplet.java",
+		"/home/david/Documents/TFG/pe/output/JavaExamples/qm_photoelectric_pkg/qm_photoelectric.java",
+		"/home/david/Documents/JavaScript/Ajax/Debugging_firebug_38_II.html",
+		"/home/david/Documents/TFG2/Memoria1/dudas.aux",
+		"/home/david/Documents/TFG/pe/source/JavaExamples/photoelectric/PhotoelectricEffect.html",
+		"/home/david/Documents/JavaScript/Ajax/loginJSON_36_I.html",
+		"/home/david/Documents/JavaScript/Ajax/consola_firebug_38_I.html",
+		"/home/david/Documents/JavaScript/Ajax/google_maps_37_I.html",
+		"/home/david/Documents/JavaScript/Ajax/loginJSON_36_II.php",
+		"/home/david/Documents/JavaScript/Ajax/jquery.gomap-1.3.3.min.js",
+		"/home/david/Documents/JavaScript/Ajax/jquery.gomap-1.3.3.js",
+		"/home/david/Documents/JavaScript/Ajax/login_35_I.html",
+		"/home/david/Documents/JavaScript/Ajax/login_35_II.php",
+		"/home/david/Documents/JavaScript/Ajax/principal_34_I.html",
+		"/home/david/Documents/JavaScript/Ajax/tiempo_34_IV.html",
+		"/home/david/Documents/JavaScript/Ajax/deportivas_34_III.html",
+		"/home/david/Documents/JavaScript/Ajax/generales_34_II.html",
+		"/home/david/Documents/JavaScript/Formularios/Validacion_33_II.html",
+		"/home/david/Documents/JavaScript/Formularios/Validacion_33_I.html",
+		"/home/david/Documents/JavaScript/Formularios/MostrarOcultarElementos_32_II.html",
+		"/home/david/Documents/JavaScript/Formularios/jquery.validate.js",
+		"/home/david/Documents/JavaScript/Formularios/jquery.validate.min.js",
+		"/home/david/Documents/JavaScript/Formularios/MostrarOcultarElementos_32_I.html",
+		"/home/david/Documents/JavaScript/Formularios/Eventos_31.html",
+		"/home/david/Documents/JavaScript/JQuery/MenuThompson_30.html",
+		"/home/david/Documents/JavaScript/JQuery/iFrames_29_I.html",
+		"/home/david/Documents/JavaScript/JQuery/iFrames_29_II.html",
+		"/home/david/Documents/JavaScript/formularios_I.html",
+		"/home/david/Documents/JavaScript/JQuery/css2/style.css",
+		"/home/david/Documents/JavaScript/JQuery/js/nav2.2.js",
+		"/home/david/Documents/JavaScript/JQuery/VentanasEmergentes_28_II.html",
+		"/home/david/Documents/JavaScript/JQuery/VentanasEmergentes_28_I.html",
+		"/home/david/Documents/JavaScript/JQuery/FotoFancyBox_27.html",
+		"/home/david/Documents/JavaScript/JQuery/Preloader_26_II.html",
+		"/home/david/Documents/JavaScript/JQuery/Preloader_26_I.html",
+		"/home/david/Documents/JavaScript/OtrosPasosJS/VentanasEmergentes_28_II.html",
+		"/home/david/Documents/JavaScript/OtrosPasosJS/VentanasEmergentes_28_I.html",
+		"/home/david/Documents/JavaScript/JQuery/jquery.fancybox-1.3.4/index.html",
+		"/home/david/Documents/JavaScript/JQuery/jquery.fancybox-1.3.4/fancybox/jquery.fancybox-1.3.4.js",
+		"/home/david/Documents/JavaScript/JQuery/Jquery/fancybox/jquery.fancybox-1.3.4.js",
+		"/home/david/Documents/JavaScript/JQuery/fancybox/jquery.fancybox-1.3.4.min.js",
+		"/home/david/Documents/JavaScript/JQuery/Jquery/fancybox/jquery.fancybox-1.3.4.css",
+		"/home/david/Documents/JavaScript/JQuery/Animaciones_25_IV.html",
+		"/home/david/Documents/JavaScript/JQuery/Animaciones_25_V.html",
+		"/home/david/Documents/JavaScript/JQuery/Animaciones_25_III.html",
+		"/home/david/Documents/JavaScript/JQuery/jquery.easing.1.3.js",
+		"/home/david/Documents/JavaScript/JQuery/Animaciones_25_II.html",
+		"/home/david/Documents/JavaScript/JQuery/Animaciones_25_I.html",
+		"/home/david/Documents/JavaScript/JQuery/Eventos_24_V.html",
+		"/home/david/Documents/JavaScript/JQuery/Eventos_24_IV.html",
+		"/home/david/Documents/JavaScript/JQuery/Eventos_24_III.html",
+		"/home/david/Documents/JavaScript/JQuery/Eventos_24_II.html",
+		"/home/david/Documents/JavaScript/JQuery/Eventos_24_I.html",
+		"/home/david/Documents/JavaScript/JQuery/FuncionEach_23_II.html",
+		"/home/david/Documents/JavaScript/JQuery/FuncionEach_23_I.html",
+		"/home/david/Documents/JavaScript/JQuery/ModificandoHTML_22_III.html",
+		"/home/david/Documents/JavaScript/JQuery/ModificandoHTML_22_II.html",
+		"/home/david/Documents/JavaScript/JQuery/ModificandoHTML_22_I.html",
+		"/home/david/Documents/JavaScript/JQuery/ModificandoCSS_21_III.html",
+		"/home/david/Documents/JavaScript/JQuery/ModificandoCSS_21_II.html",
+		"/home/david/Documents/JavaScript/JQuery/ModificandoCSS_21_I.html",
+		"/home/david/Documents/JavaScript/JQuery/LeyendoAtributos_20.html",
+		"/home/david/Documents/JavaScript/JQuery/RemoverReemplazar_19.html",
+		"/home/david/.config/sublime-text-3/Packages/User/JavaScript_Html5.sublime-snippet",
+		"/home/david/Documents/JavaScript/JQuery/Formulario_18.html",
+		"/home/david/Documents/JavaScript/JQuery/JQuery_16_I.html",
+		"/home/david/Documents/JavaScript/JQuery/JQuery_17.html",
+		"/home/david/Documents/JavaScript/JQuery/JQuery_16_III.html",
+		"/home/david/Documents/JavaScript/PrimerosPasosJS",
+		"/home/david/Documents/JavaScript/PrimerosPasosJS/JQuery/JQuery_16_III.html",
+		"/home/david/Documents/JavaScript/PrimerosPasosJS/JQuery/JQuery_16_II.html",
+		"/home/david/Documents/JavaScript/PrimerosPasosJS/JQuery/JQuery_16_I.html",
+		"/home/david/Documents/JavaScript/PrimerosPasosJS/Eventos_14_I.html",
+		"/home/david/Documents/JavaScript/PrimerosPasosJS/CalculadoraBuena_15.html",
+		"/home/david/Documents/JavaScript/JQuery/JQuery_16.html",
+		"/home/david/Documents/JavaScript/JQuery/JQuery_9.html",
+		"/home/david/Documents/JavaScript/JQuery/JQuery.html",
+		"/home/david/Documents/JavaScript/PrimerosPasosJS/calculadora_eventos.html",
+		"/home/david/Documents/JavaScript/PrimerosPasosJS/Arrays_4.html",
+		"/home/david/.config/sublime-text-3/Packages/HighlightWhitespaces/highlight_whitespaces.sublime-settings",
+		"/home/david/.config/sublime-text-3/Packages/User/highlight_whitespaces.sublime-settings",
+		"/home/david/.config/sublime-text-3/Packages/HighlightWhitespaces/README.md",
+		"/home/david/.config/sublime-text-3/Packages/ColorPicker/ColorPicker.sublime-settings",
+		"/home/david/Documents/JavaScript/PrimerosPasosJS/css/micss2.css",
+		"/home/david/Documents/JavaScript/PrimerosPasosJS/Calculadora_13.html",
+		"/home/david/Documents/JavaScript/PrimerosPasosJS/css/micss.css",
+		"/home/david/Documents/JavaScript/PrimerosPasosJS/BucleFor_11_I.html",
+		"/home/david/Documents/JavaScript/PrimerosPasosJS/Funciones_12_II.html",
+		"/home/david/Documents/JavaScript/PrimerosPasosJS/Funciones_12_I.html",
+		"/home/david/Documents/JavaScript/PrimerosPasosJS/BucleFor_11_II.html",
+		"/home/david/Documents/JavaScript/PrimerosPasosJS/NumeroAleatorio_10.html",
+		"/home/david/Documents/JavaScript/PrimerosPasosJS/While_8_I.html",
+		"/home/david/Documents/JavaScript/PrimerosPasosJS/DoWhile_9.html",
+		"/home/david/Documents/JavaScript/PrimerosPasosJS/While_8_II.html",
+		"/home/david/Documents/JavaScript/PrimerosPasosJS/Calculadora_7.html",
+		"/home/david/Documents/JavaScript/PrimerosPasosJS/CondicionalPOO_6_III.html",
+		"/home/david/Documents/JavaScript/PrimerosPasosJS/CondicionalPOO_6_II.html",
+		"/home/david/Documents/JavaScript/PrimerosPasosJS/Condicional_6_I.html",
+		"/home/david/Documents/JavaScript/PrimerosPasosJS/condicional_y_poo.html",
+		"/home/david/Documents/JavaScript/PrimerosPasosJS/POO1_5.html",
+		"/home/david/Documents/JavaScript/POO/POO1_5.html",
+		"/home/david/Documents/JavaScript/PrimerosPasosJS/Operadores_3_I.html",
+		"/home/david/.config/sublime-text-3/Packages/ColorPicker/lib/linux_colorpicker.py",
+		"/home/david/.config/sublime-text-3/Packages/User/ColorPicker.sublime-settings",
+		"/home/david/.config/sublime-text-3/Packages/User/highlighter.sublime-settings",
+		"/home/david/Documents/JavaScript/PrimerosPasosJS/Operadores_3_II.html",
+		"/home/david/Documents/JavaScript/PrimerosPasosJS/css/micss3.css",
+		"/home/david/Documents/JavaScript/PrimerosPasosJS/ejemplo2.html",
+		"/home/david/Documents/JavaScript/PrimerosPasosJS/PrimerEjemplo_1.html",
+		"/home/david/Documents/JavaScript/PrimerosPasosJS/Variables_2.html",
+		"/home/david/Documents/JavaScript/PrimerosPasosJS/ejemplo.js",
+		"/home/david/.config/sublime-text-3/Packages/HTML-CSS-JS Prettify/HTMLPrettify.sublime-settings",
+		"/home/david/.config/sublime-text-3/Packages/HTML-CSS-JS Prettify/.jsbeautifyrc.defaults.json",
+		"/home/david/Documents/JavaScript/PrimerosPasosJS/Jquery/jquery-1.6.3.min.js",
+		"/home/david/.config/sublime-text-3/Packages/Open In Browser/README.md",
+		"/home/david/.config/sublime-text-3/Packages/User/chrome.sublime-build",
+		"/home/david/.config/sublime-text-3/Packages/Emmet/Emmet.sublime-settings",
+		"/home/david/.config/sublime-text-3/Packages/Highlighter/highlighter.sublime-settings",
+		"/home/david/.config/sublime-text-3/Packages/JavaScript Completions/Default (Linux).sublime-keymap",
+		"/home/david/Documents/JavaScript/PrimerosPasosJS/ddd.js"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"fecha",
+			"filed is required",
+			"Please this filed is required",
+			"overlay",
+			"easiInsine"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 4,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/home/david/Documents/TFG/pe/codigo/1_BandFrequencies.java",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2764,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.clone": 19,
+							"bracket_highlighter.clone_locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.clone_regions":
+							[
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content"
+							],
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content"
+							],
+							"color_helper.box_height": 18,
+							"color_helper.color_scheme": "Packages/Boxy Theme/schemes/Boxy Tomorrow.tmTheme",
+							"color_helper.file_palette":
+							[
+							],
+							"color_helper.preview_meta":
+							{
+							},
+							"color_helper.scan":
+							{
+								"current_ext": ".java",
+								"current_syntax": "Java/Java",
+								"enabled": false,
+								"last_updated": 1543075543.18
+							},
+							"syntax": "Packages/Java/Java.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/home/david/Documents/TFG/pe/codigo/1_InizialitationPage.java",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 138,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.clone": 20,
+							"bracket_highlighter.clone_locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.clone_regions":
+							[
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content"
+							],
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content"
+							],
+							"color_helper.box_height": 18,
+							"color_helper.color_scheme": "Packages/Boxy Theme/schemes/Boxy Tomorrow.tmTheme",
+							"color_helper.file_palette":
+							[
+							],
+							"color_helper.preview_meta":
+							{
+							},
+							"color_helper.scan":
+							{
+								"current_ext": ".java",
+								"current_syntax": "Java/Java",
+								"enabled": false,
+								"last_updated": 1543075543.18
+							},
+							"syntax": "Packages/Java/Java.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/home/david/Documents/TFG/pe/codigo/2_EvolutionPage.java",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 331,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.clone": -1,
+							"bracket_highlighter.clone_locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.clone_regions":
+							[
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content"
+							],
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content"
+							],
+							"color_helper.box_height": 18,
+							"color_helper.color_scheme": "Packages/Boxy Theme/schemes/Boxy Tomorrow.tmTheme",
+							"color_helper.file_palette":
+							[
+							],
+							"color_helper.preview_meta":
+							{
+							},
+							"color_helper.scan":
+							{
+								"current_ext": ".java",
+								"current_syntax": "Java/Java",
+								"enabled": false,
+								"last_updated": 1543075543.18
+							},
+							"syntax": "Packages/Java/Java.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/home/david/Documents/TFG/pe/codigo/3_ContrainsPage.java",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1426,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.clone": 22,
+							"bracket_highlighter.clone_locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.clone_regions":
+							[
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content"
+							],
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content"
+							],
+							"color_helper.box_height": 18,
+							"color_helper.color_scheme": "Packages/Boxy Theme/schemes/Boxy Tomorrow.tmTheme",
+							"color_helper.file_palette":
+							[
+							],
+							"color_helper.preview_meta":
+							{
+							},
+							"color_helper.scan":
+							{
+								"current_ext": ".java",
+								"current_syntax": "Java/Java",
+								"enabled": false,
+								"last_updated": 1543075543.18
+							},
+							"syntax": "Packages/Java/Java.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "/home/david/Documents/TFG/pe/codigo/4_PaginaPropiaCustom.java",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1152,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								604,
+								604
+							]
+						],
+						"settings":
+						{
+							"auto_name": "public void inicializa( int j ) {",
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.clone": -1,
+							"bracket_highlighter.clone_locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										1149,
+										1150
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/curly_bracket.png",
+										"region.purplish"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										542,
+										543
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.clone_regions":
+							[
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content"
+							],
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										1149,
+										1150
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/curly_bracket.png",
+										"region.purplish"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										542,
+										543
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content"
+							],
+							"color_helper.box_height": 18,
+							"color_helper.color_scheme": "Packages/Boxy Theme/schemes/Boxy Tomorrow.tmTheme",
+							"color_helper.file_palette":
+							[
+							],
+							"color_helper.preview_meta":
+							{
+							},
+							"color_helper.scan":
+							{
+								"current_ext": ".java",
+								"current_syntax": "Java/Java",
+								"enabled": false,
+								"last_updated": 1543075543.18
+							},
+							"syntax": "Packages/Java/Java.sublime-syntax",
+							"tab_size": 3,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 339.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 43.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.mdpopups":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/User/chrome.sublime-build",
+	"project": "JavaScript.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 285.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

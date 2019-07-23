@@ -1,0 +1,114 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<!--JULIO PALMA, TEMUCO CHILE-->
+<title>Documento sin título</title>
+<style>
+
+table{
+	text-align:center;
+	float:right;
+	margin-right:50px;
+}
+	
+p{
+	font-size:1.3em;
+}
+
+#imagen_grande {
+	position: absolute;
+	margin-left: auto;
+	margin-right: auto;
+	left:0;
+	right:0;
+	width: 700px;
+	height: 405px;
+	z-index: 1;
+	border:dotted 5px #0000FF;
+	/*background-color: #FF0000;*/
+}
+
+img{
+	font-family: Georgia, Times New Roman, serif; 
+	font-size: 18px; 
+	color: #fff; 
+	background: #c00;	
+	}
+</style>
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+
+<script>
+
+	$(document).ready(function(){
+		
+		//Oculto el DIV con ID imagen_grande
+		$("#imagen_grande").hide();
+		
+		//Selecciono todas las imágenes y le aplico el método ON debido a que BIND está obsoleto y en sus parámetros(El Evento y la Función a la cual llamará).
+		$("img").on("click",abreImagen);
+		
+	});
+	
+	//Creo la Funcion y le paso por parámetros el OBJETO creado(en este caso se llama e pero puede tener el nombre que se quiera y se pueda)
+	function abreImagen(e){
+		
+		//Detecta solo el Evento realizado fuera del OBJETO creado (en este caso los CLICK en los IMGS).
+		e.stopPropagation();
+		
+		//Guardo en una variable el valor de la propiedad SRC del OBJETO creado.
+		var v_img1 = $(this).attr("src");
+		
+		//Aparece el DIV con con ID imagen_grande
+		$("#imagen_grande").fadeIn(1000);
+		
+		//Modifico la propiedad del IMG cuyo ID es img_sustitucion y como parámetro ("Propiedad a modificar", Nombre de la variable que capturó el SRC del OBJETO creado).
+		$("#img_sustitucion").attr("src",v_img1);
+		
+		/* Puedes Modificar las multiples propiedades dentro del metodo attr como el Width y Height. OPCIÓN 1 (Para los tamaños de imágenes). Quedando de la siguiente forma:
+		$("#img_sustitucion").attr({"src":e.data,"width":"700","height":"405"}); FORMA DE OPCIÓN 1 */
+		
+	}
+	
+	//Selecciono el elemento DOCUMENT y le aplico el método on y en sus parámetros(El/los Evento(s) y la Función anónima la cual ejecutará).
+	$(document).on("click keypress",function(){
+		
+		//Oculto el DIV con ID imagen_grande
+		$("#imagen_grande").fadeOut(1000);
+		
+	});
+</script> 
+	
+</head>
+
+<body>
+
+<a href="https://www.youtube.com/watch?v=xwM89X_NWqE" target="_blank">CLICK PARA IR AL VIDEO DEL EJERCICIO DE PILDORASINFORMÁTICAS</a>
+	
+<!--Se pueden agregar los tamaños fijos de las imágenes grande por medio de propiedades width y height en el HTML. OPCIÓN 2 (Para los tamaños de imágenes).-->
+<div id="imagen_grande"><img src="" id="img_sustitucion" alt="Imagen" width="700" height="405"></div>
+
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean molestie, enim id convallis dignissim, justo mauris porttitor nisl, eu consectetur lectus nisl vitae velit. Etiam dignissim finibus ante porttitor vulputate. Maecenas porta rutrum lorem quis blandit. Nulla pretium turpis ac volutpat pharetra. Curabitur rhoncus tortor et condimentum congue. Nulla pharetra turpis sed eros efficitur vulputate. Cras bibendum, neque sed blandit mattis, elit nibh imperdiet nunc, in aliquam orci arcu sed arcu. Vestibulum sed velit suscipit, euismod neque vel, ultricies lorem. Cras ac lacus luctus, lacinia libero sed, aliquet augue. Sed pharetra nisi arcu, eu semper lacus aliquam non. Phasellus dui ante, auctor eu ante sodales, convallis laoreet massa. Etiam ac porta mi. Vestibulum feugiat maximus orci a pharetra. Vivamus commodo rhoncus lectus, sit amet maximus augue laoreet at. Curabitur a erat ultrices, vulputate risus vehicula, viverra purus.</p>
+
+<p>Donec nec pretium tellus. Cras volutpat eros a mi suscipit suscipit. Etiam sit amet sodales tellus. Nulla a odio volutpat, auctor orci at, bibendum eros. Integer suscipit velit eget venenatis varius. Suspendisse condimentum libero ut turpis placerat, eu cursus nisl pretium. Aenean condimentum iaculis felis, eu tristique neque porttitor sit amet.</p>
+
+<table border="0">
+	<tr>
+		<td><img src="imgs/1.jpg" width="150" height="100" id="imagen1" alt="Cambiar ruta de la imágen si no aparece"></td>
+		<td><img src="imgs/2.jpg" width="150" height="100" id="imagen2"  alt="Cambiar ruta de la imágen si no aparece"></td>
+	</tr>
+	<tr>
+		<td><img src="imgs/3.jpg" width="150" height="100" id="imagen3"  alt="Cambiar ruta de la imágen si no aparece"></td>
+		<td><img src="imgs/4.jpg" width="150" height="100" id="imagen4"  alt="Cambiar ruta de la imágen si no aparece"></td>
+  </tr>
+</table>
+
+<p>Phasellus ligula sem, volutpat ac turpis in, mattis consectetur metus. Sed eu risus ac enim laoreet suscipit et et tortor. Quisque interdum nisi risus, a convallis elit gravida fermentum. Maecenas vehicula massa nec lectus aliquam, eu dapibus mi interdum. Aliquam magna felis, vulputate ut purus ac, feugiat condimentum velit. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nullam sodales lorem sollicitudin commodo blandit. Pellentesque sollicitudin, quam ac fringilla eleifend, erat risus fringilla nulla, at vehicula ipsum sapien in diam. Aenean vel odio sollicitudin, iaculis velit at, scelerisque diam. Praesent eget sem id tellus sollicitudin dignissim.</p>
+
+<p>Integer eu euismod tortor, vitae sagittis mauris. Vivamus interdum accumsan lorem, et euismod ante facilisis sed. Phasellus pretium odio quis hendrerit varius. Etiam non arcu vitae dui cursus luctus. Vivamus a interdum ligula, nec tincidunt dui. Pellentesque sit amet enim quam. Duis consectetur purus purus, at interdum libero volutpat sit amet. Praesent commodo lacinia lacinia. Nam at euismod nunc, eu molestie ipsum. In sagittis vel enim in ultricies. Mauris semper, tellus sit amet mollis laoreet, sem diam iaculis purus, eget sodales nulla felis sed augue. Pellentesque in quam lorem. Vivamus ac nunc posuere, congue risus condimentum, lobortis sapien. Donec eu convallis est, vel convallis nisi.</p>
+
+<p>Suspendisse venenatis congue ipsum, vitae porttitor sapien egestas et. Nam efficitur nibh in mauris dapibus sagittis. Proin magna nunc, facilisis vel tincidunt a, maximus ut nisl. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Maecenas cursus mattis augue, non maximus odio. Pellentesque a nunc quis mi sagittis vestibulum. Proin diam urna, porttitor vitae eros nec, convallis tristique mi. Cras ut dolor at dolor convallis porta. Aenean gravida euismod scelerisque. </p>
+
+</body>
+</html>

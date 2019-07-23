@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Introducción a eventos</title>
+<style>
+h1{
+	text-align:center;
+}
+body{
+	background-color:#334873;
+	color:#FFF;
+}
+
+#principal{
+	width:60%;
+	margin:auto;
+}
+
+a{
+	color:#FFF;
+	font:bold 20px Verdana, Geneva, sans-serif;
+} 
+</style>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+<script>
+
+	$(document).ready(function(){
+
+		$("html").dblclick(function(){ //cuando hagamos dobleclick en cualquier lugar de la web(html) saldrá un alert
+
+			alert("Ayyyyy");
+
+		});
+
+		$("a").mouseover(function(){
+
+			var mensaje="<p> Estás pasando el ratón por encima </p>";
+
+			$("#principal").append(mensaje); //añadimos al contenedor principal lo almacenado en mensaje
+
+		});
+
+		$("#el_boton").click(function(){
+
+			$(this).val("¡¡Para de hacer click!!"); //en el objeto que estemos(this), y cambiamos el valor del elemento Un Boton con val(), por otro texto
+
+		});
+
+		$("#el_campo").focus(function(){ //focus es el foco
+
+			$(this).val("Ahora vas a escribir aqui"); //añade este texto cuando tiene el foco este elemento
+
+		});
+
+	});
+
+
+</script>
+</head>
+<body>
+
+<div id="principal">
+
+<h1>Introducción a eventos</h1>
+
+<p><a href="#">Un link</a></p>
+
+<form action="#" method="get">
+<fieldset><legend>Formulario</legend><p>
+  <input name="button" type="button" id="el_boton" value="Un boton">
+</p>
+<p><input name="textfield" type="text" id="el_campo"></p></fieldset>
+</form>
+
+</div>
+
+
+</body>
+</html>
